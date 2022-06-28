@@ -1,3 +1,3 @@
 # lobo-guara
 
-https://hagarow.github.io
+https://hagarow.github.io/lobo-guara
